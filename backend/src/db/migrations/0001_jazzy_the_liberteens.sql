@@ -1,0 +1,1 @@
+ALTER TABLE "favorites" ADD PRIMARY KEY ("user_id");
